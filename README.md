@@ -1,6 +1,4 @@
- ## Project developed during training: **Crie um site PWA com Next.js 13, React Server Components e Testes (+SOLID)** 🔥
-
- ### 👉 **Access link**: [here](https://hotm.art/lA0ujDcw)
+ ## Study Project: **Crie um site PWA com Next.js 13, React Server Components e Testes (+SOLID)** 🔥
 
  ---
 
