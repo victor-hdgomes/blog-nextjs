@@ -1,15 +1,15 @@
 import { SiteType } from '@/models';
 
 export const siteConfig: SiteType = {
-  name: 'Junior Alves',
+  name: 'Victor Hugo',
   description: 'Blog onde falo sobre código e livros',
-  title: 'Senior Software Engineer e content creator.',
+  title: 'Jr Software Engineer.',
   subtitle:
-    'Bem vindo ao meu blog! Eu sou Junior Alves, apaixonado por tecnologia, sempre buscando aprender algo novo todos os dias.',
-  url: 'https://meusite.com.br',
+    'Bem vindo ao meu blog! Eu sou Victor Hugo, apaixonado por tecnologia, sempre buscando aprender algo novo todos os dias.',
+  url: 'https://victor-hdgomes.github.io/victorhugodeveloper/',
   links: {
-    youtube: 'https://www.youtube.com/@devjunioralves',
-    github: 'https://github.com/jjunior96',
-    linkedin: 'https://www.linkedin.com/in/junior-alves-b66a10127/'
+    youtube: 'https://www.youtube.com/',
+    github: 'https://github.com/victor-hdgomes',
+    linkedin: 'https://www.linkedin.com/in/victor-hugo-117507279/'
   }
 };

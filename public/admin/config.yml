@@ -1,8 +1,8 @@
 backend:
   name: github
   branch: main
-  repo: jjunior96/blog-next-course
-  base_url: https://blog-next-course.vercel.app/
+  repo: https://github.com/victor-hdgomes/blog-nextjs
+  base_url: https://github.com/victor-hdgomes/blog-nextjs
   auth_endpoint: api/auth/
 
 media_folder: public/assets/images

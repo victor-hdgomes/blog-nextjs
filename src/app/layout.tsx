@@ -11,8 +11,8 @@ import '@/styles/globals.css';
 
 export const metadata = {
   title: {
-    template: '%s | Junior Alves',
-    default: 'Junior Alves'
+    template: '%s | Victor Hugo',
+    default: 'Victor Hugo'
   },
   description: 'Description',
   manifest: '/manifest.json'

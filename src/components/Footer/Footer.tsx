@@ -49,7 +49,7 @@ export const Footer = ({ items }: FooterProps) => {
 
         <S.CopyrightContainer>
           <S.Copyright>
-            Todos os direitos reseverdos © Junior Alves {fullYear}
+            Todos os direitos reseverdos © Victor Hugo {fullYear}
           </S.Copyright>
         </S.CopyrightContainer>
       </S.Container>
